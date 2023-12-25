@@ -1,3 +1,2 @@
 [build]
-  command = "npm run build"   # or your build command
-  publish = "build"           # or your publish directory
+  command = "your-build-command"
