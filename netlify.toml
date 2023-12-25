@@ -1,2 +1,2 @@
 [build]
-  command = "your-build-command"
+  command =  "C:/Users/sivamanasa/portfolio/Backend/build.sh"
