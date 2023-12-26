@@ -7,7 +7,7 @@ const mySql=require('mysql')
 
 app.use(express.json())
 app.use(cors({
-    origin:["http://localhost:3000","https://sivajiportfolio.netlify.app","https://jagadabisivaji.netlify.app"],
+    origin:["http://localhost:3000","https://sivajiportfolio.netlify.app","https://jagadabisivaji.netlify.app","https://jagadabiportfolio.netlify.app"],
 }));
 
 
